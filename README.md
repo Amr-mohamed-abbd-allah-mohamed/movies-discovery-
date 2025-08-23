@@ -3,7 +3,7 @@
 ## 👥 Team Members
 - *Amr Mohamed* (Team Leader)
 - *Abdalrahman Mohamed*
--*Salma Fathy*
+- *Salma Fathy*
 - *Rokaya Taha*
 
 ## 🔗 Project Resources
