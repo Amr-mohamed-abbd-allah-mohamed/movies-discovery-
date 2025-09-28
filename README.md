@@ -1,18 +1,47 @@
 # 🎬 Movies Discovery
 
 ## 👥 Team Members
-- *Amr Mohamed* (Team Leader) – Responsible for writing the logic code.
-- *Abdalrahman Mohamed* – Responsible for writing the logic code.
-- *Salma Fathy* - Responsible for the app design.
-- *Rokaya Taha* – Responsible for Firebase integration.
-
-## 🔗 Project Resources
-- 📂 [Google Drive Link](https://drive.google.com/drive/folders/1jBRFV0KBceXAK8NEcSd1UfnaaHFS32p9?usp=sharing)
-- 💻 [GitHub Repository](https://github.com/Amr-mohamed-abbd-allah-mohamed/movies-discovery-)
-
+  - *Amr Mohamed* (Team Leader)
+  - *Abdalrahman Mohamed*
+  - *Salma Fathy* 
+  - *Rokaya Taha*
 
 ## 🎥 Description
 An Android app built with Kotlin and Jetpack Compose that lets users explore movies, check ratings, read short descriptions, and organize favorites across categories. It fetches real-time data from an online API and displays it in an easy-to-use interface.
+
+
+## 🧩 Roles & Responsibilities
+  - *Amr Mohamed* (Team Leader) – Responsible for writing the logic code.
+  - *Abdalrahman Mohamed* – Responsible for writing the logic code.
+  - *Salma Fathy* - Responsible for the app design.
+  - *Rokaya Taha* – Responsible for Firebase integration.
+## 🔑 Key Performance Indicators (KPIs)
+
+To measure the success of this project, we plan to track the following KPIs:
+
+1. **Response Time**  
+   - Target: The system should respond to user requests within 2 seconds on average.
+
+2. **System Uptime**  
+   - Target: Maintain at least 99% uptime during operation.
+
+3. **User Adoption Rate**  
+   - Target: At least 200 active users within the first 3 months after launch.
+
+4. **Error Rate**  
+   - Target: Less than 1% of total requests should fail.
+
+5. **Customer Satisfaction**  
+   - Target: Achieve a satisfaction rating of 4.5/5 or higher in user feedback surveys.
+
+## 👨🏼‍🏫 Instructor 
+  - Ahmed Atef
+
+## 🔗 Project Resources
+You can find the full project files here:
+- 📂 [Google Drive Link](https://drive.google.com/drive/folders/1jBRFV0KBceXAK8NEcSd1UfnaaHFS32p9?usp=sharing)
+- 💻 [GitHub Repository](https://github.com/Amr-mohamed-abbd-allah-mohamed/movies-discovery-)
+
 
 ## ✨ Features
 - Browse popular movies in different categories (trending, top-rated).
