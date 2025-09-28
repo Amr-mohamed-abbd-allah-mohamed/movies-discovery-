@@ -11,7 +11,7 @@ An Android app built with Kotlin and Jetpack Compose that lets users explore mov
 
 
 ## 🧩 Roles & Responsibilities
-  - *Amr Mohamed* (Team Leader) – Responsible for writing the logic code.
+  - *Amr Mohamed* – Responsible for writing the logic code.
   - *Abdalrahman Mohamed* – Responsible for writing the logic code.
   - *Salma Fathy* - Responsible for the app design.
   - *Rokaya Taha* – Responsible for Firebase integration.
@@ -37,12 +37,6 @@ To measure the success of this project, we plan to track the following KPIs:
 ## 👨🏼‍🏫 Instructor 
   - Ahmed Atef
 
-## 🔗 Project Resources
-You can find the full project files here:
-- 📂 [Google Drive Link](https://drive.google.com/drive/folders/1jBRFV0KBceXAK8NEcSd1UfnaaHFS32p9?usp=sharing)
-- 💻 [GitHub Repository](https://github.com/Amr-mohamed-abbd-allah-mohamed/movies-discovery-)
-
-
 ## ✨ Features
 - Browse popular movies in different categories (trending, top-rated).
 - Search for movies by title.
@@ -56,3 +50,8 @@ You can find the full project files here:
 - Personalization – Features like favorites and search allow users to tailor the experience to their taste, increasing engagement.
 - Scalability – Can be expanded with features like watchlists, recommendations, or integration with streaming platforms.
 - Market Demand – People are always looking for apps to discover and track movies, so there’s a constant user base.
+
+## 🔗 Project Resources
+You can find the full project files here:
+- 📂 [Google Drive Link](https://drive.google.com/drive/folders/1jBRFV0KBceXAK8NEcSd1UfnaaHFS32p9?usp=sharing)
+- 💻 [GitHub Repository](https://github.com/Amr-mohamed-abbd-allah-mohamed/movies-discovery-)
