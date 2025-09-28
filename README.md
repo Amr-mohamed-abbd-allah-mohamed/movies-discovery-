@@ -15,6 +15,25 @@ An Android app built with Kotlin and Jetpack Compose that lets users explore mov
   - *Abdalrahman Mohamed* – Responsible for writing the logic code.
   - *Salma Fathy* - Responsible for the app design.
   - *Rokaya Taha* – Responsible for Firebase integration.
+## Work Plan
+
+1. **Research & Analysis**  
+   - Define audience personas and study target users.
+
+2. **Visual Identity**  
+   - Logo design and brand guidelines.
+
+3. **Main Designs**  
+   - Key design materials (e.g., poster).
+
+
+4. **Review & Finalization**  
+   - Final review and polishing of all deliverables.
+
+5. **Final Presentation**  
+   - Presenting the project outcomes professionally.
+
+
 ## 🔑 Key Performance Indicators (KPIs)
 
 To measure the success of this project, we plan to track the following KPIs:
